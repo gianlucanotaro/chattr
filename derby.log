@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 23 21:17:16 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0164-2e14-3fc4-00000d8e0bc0 
+on database directory /home/gianluca/oop2final/contacts.db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/gianluca/oop2final/oop2final/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_172-b11
+user.dir=/home/gianluca/oop2final
+os.name=Linux
+os.arch=amd64
+os.version=4.16.7-1-ARCH
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

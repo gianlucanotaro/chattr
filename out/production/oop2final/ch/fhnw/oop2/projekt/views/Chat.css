@@ -1,0 +1,38 @@
+.button:hover{
+    -fx-background-color: #dcdee2;
+}
+
+.button{
+    -fx-background-radius: 0;
+    -fx-background-color: #edeeef;
+    -fx-border-color: darkgrey;
+    -fx-text-fill: black;
+}
+
+.root{
+    -fx-background-color:white;
+}
+
+.label{
+    -fx-text-fill:black;
+}
+
+.text-field{
+    -fx-background-color: #ffffff ;
+    -fx-text-fill: black;
+    -fx-background-radius: 0;
+    -fx-border-color: darkgrey;
+    -fx-border-width: 1px;
+}
+
+.text-area{
+    -fx-background-color: darkgrey ;
+    -fx-text-fill: black ;
+    -fx-background-radius: 0;
+}
+.searchField{
+    -fx-border-width: 1 1 1 1;
+}
+.searchButton{
+    -fx-border-width: 1 1 1 0;
+}

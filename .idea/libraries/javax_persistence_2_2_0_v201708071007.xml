@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.persistence_2.2.0.v201708071007">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oop2final/lib/javax.persistence_2.2.0.v201708071007.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oop2final/lib/eclipselink.jar!/" />
+      <root url="jar://$PROJECT_DIR$/oop2final/lib/derby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
